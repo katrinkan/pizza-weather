@@ -52,3 +52,9 @@ input {
   text-transform: capitalize;
   font-family: "Cabin Sketch", cursive;
 }
+.code-by {
+  text-align: center;
+}
+.code-link {
+  text-decoration: underline;
+}
